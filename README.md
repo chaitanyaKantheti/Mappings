@@ -1,0 +1,2 @@
+# Mappings
+jpa mapping relations
